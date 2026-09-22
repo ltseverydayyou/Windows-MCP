@@ -1,0 +1,13 @@
+{
+  "allowed_roots": [
+    "%USERPROFILE%"
+  ],
+  "allow_all_filesystem": false,
+  "shell_enabled": true,
+  "shell_timeout_seconds": 120,
+  "max_file_bytes": 2097152,
+  "max_output_chars": 120000,
+  "desktop_control_enabled": true,
+  "ui_automation_enabled": true,
+  "max_screenshot_pixels": 20000000
+}

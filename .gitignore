@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+.control-plane-key
+.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
