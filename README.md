@@ -256,7 +256,3 @@ powershell -ExecutionPolicy Bypass -File .\restart-tunnel.ps1
 ```
 
 After a tool-schema change, reconnect/rescan the app in ChatGPT.
-
-## Notes
-
-The published repository intentionally excludes local runtime state such as `.venv`, `__pycache__`, and `.control-plane-key`.
